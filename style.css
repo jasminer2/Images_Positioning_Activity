@@ -57,6 +57,7 @@ body,td,th {
 }
 
 .heading {padding:.75em;
+float: left;
 text-align: left;}
 
 .align {text-align:center;}
