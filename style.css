@@ -56,8 +56,7 @@ body,td,th {
 	margin:0px 1em 1em 0px;
 }
 
-.heading {float: left;
-padding:.10em;
+.heading {padding:.100em;
 margin: 0px 1em 1em 0px;
 text-align: center;}
 
