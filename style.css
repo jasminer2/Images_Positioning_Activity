@@ -56,8 +56,7 @@ body,td,th {
 	margin:0px 1em 1em 0px;
 }
 
-.heading {background-color:white;
-padding:.75em;
+.heading {padding:.75em;
 text-align:center;}
 
 .align {text-align:center;}
