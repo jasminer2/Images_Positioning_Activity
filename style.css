@@ -58,7 +58,8 @@ body,td,th {
 
 .heading {padding:.75em;
 float: left;
-text-align: left;}
+text-align: left;
+margin: 30px 1em 1em 0px;}
 
 .align {text-align:left;}
 
